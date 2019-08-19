@@ -1,0 +1,17 @@
+release/main.o
+release/qrc_image.o
+release/TextF_qml.o
+release/TestQml_qml.o
+release/qml_RightDockWin_qml.o
+release/qml_CommonToolBar_qml.o
+release/qml_MyMenuButton_qml.o
+release/qml_MyMenuBar_qml.o
+release/qml_StateBarTools_qml.o
+release/qml_StateBar_qml.o
+release/qml_LeftDockWin_qml.o
+release/qml_TitleButton_qml.o
+release/qml_TitleBar_qml.o
+release/qml_CommonToolButton_qml.o
+release/qml_SideBarButton_qml.o
+release/qml_main_qml.o
+release/qmlcache_loader.o

@@ -1,0 +1,17 @@
+debug/main.o
+debug/qrc_image.o
+debug/TextF_qml.o
+debug/TestQml_qml.o
+debug/qml_RightDockWin_qml.o
+debug/qml_CommonToolBar_qml.o
+debug/qml_MyMenuButton_qml.o
+debug/qml_MyMenuBar_qml.o
+debug/qml_StateBarTools_qml.o
+debug/qml_StateBar_qml.o
+debug/qml_LeftDockWin_qml.o
+debug/qml_TitleButton_qml.o
+debug/qml_TitleBar_qml.o
+debug/qml_CommonToolButton_qml.o
+debug/qml_SideBarButton_qml.o
+debug/qml_main_qml.o
+debug/qmlcache_loader.o
